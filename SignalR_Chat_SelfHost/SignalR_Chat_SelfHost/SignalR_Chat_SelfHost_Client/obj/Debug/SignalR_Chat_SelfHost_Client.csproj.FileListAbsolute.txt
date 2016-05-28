@@ -1,0 +1,6 @@
+D:\SRC\TFS\wellingtonjhn\Estudo\SignalR\SignalR_Chat\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost_Client\bin\SignalR_Chat_SelfHost_Client.dll.config
+D:\SRC\TFS\wellingtonjhn\Estudo\SignalR\SignalR_Chat\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost_Client\bin\SignalR_Chat_SelfHost_Client.dll
+D:\SRC\TFS\wellingtonjhn\Estudo\SignalR\SignalR_Chat\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost_Client\bin\SignalR_Chat_SelfHost_Client.pdb
+D:\SRC\TFS\wellingtonjhn\Estudo\SignalR\SignalR_Chat\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost_Client\obj\Debug\SignalR_Chat_SelfHost_Client.csprojResolveAssemblyReference.cache
+D:\SRC\TFS\wellingtonjhn\Estudo\SignalR\SignalR_Chat\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost_Client\obj\Debug\SignalR_Chat_SelfHost_Client.dll
+D:\SRC\TFS\wellingtonjhn\Estudo\SignalR\SignalR_Chat\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost\SignalR_Chat_SelfHost_Client\obj\Debug\SignalR_Chat_SelfHost_Client.pdb
